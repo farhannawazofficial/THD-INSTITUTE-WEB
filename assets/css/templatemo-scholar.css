@@ -161,7 +161,7 @@ body {
 .main-button a {
   display: inline-block;
   background-color: #fff;
-  color: #7a6ad8;
+  color: #02910e;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -897,7 +897,7 @@ About Style
 }
 
 .accordion-button:not(.collapsed) {
-  color: #7a6ad8;
+  color: #02910e;
   background-color: #fff;
 }
 
@@ -919,7 +919,7 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #7a6ad8;
+  background-color: #02910e;
   color: #fff;
 }
 
@@ -985,7 +985,7 @@ Courses Style
 
 .event_filter li a.is_active,
 .event_filter li a:hover {
-  color: #7a6ad8;
+  color: #02910e;
 }
 
 .events_item .thumb {
@@ -1054,7 +1054,7 @@ Courses Style
 }
 
 .events_item .down-content span.author {
-  color: #7a6ad8;
+  color: #02910e;
   font-size: 15px;
   display: inline-block;
   margin-bottom: 6px;
@@ -1067,7 +1067,7 @@ Courses Style
 }
 
 .events_item:hover .down-content h4 {
-  color: #7a6ad8;
+  color: #02910e;
 }
 
 .events_item:hover .thumb span.price {
@@ -1095,7 +1095,7 @@ Facts Style
   z-index: -1;
   width: 95%;
   height: 100%;
-  background-color: #7a6ad8;
+  background-color: #02910e;
   content: '';
   border-top-right-radius: 500px;
   border-bottom-right-radius: 500px;
@@ -1174,7 +1174,7 @@ Team Style
 }
 
 .team-member .main-content span.category {
-  color: #7a6ad8;
+  color: #02910e;
   font-size: 15px;
 }
 
@@ -1192,7 +1192,7 @@ Team Style
 
 .team-member .main-content ul li a {
   background-color: #fff;
-  color: #7a6ad8;
+  color: #02910e;
   display: inline-block;
   text-align: center;
   line-height: 40px;
