@@ -1150,6 +1150,7 @@ Team Style
 
 .team-member {
   position: relative;
+  margin-bottom: 150px;
 }
 
 .team-member:hover img {
