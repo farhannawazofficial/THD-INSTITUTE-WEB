@@ -1,2 +1,2 @@
 THD INSTITUTE
-website fronted working NEW
+website fronted working NEW pages added
